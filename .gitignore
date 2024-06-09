@@ -30,3 +30,21 @@
 *.exe
 *.out
 *.app
+
+# Debug information
+*.pdb
+
+# Temp folders
+build_tmp/
+Bin/
+.vs/
+.idea/
+cmake-build-debug/
+cmake-build-release/
+cmake-build-relwithdebinfo/
+out/
+.cache/
+build/
+
+# Other stuff
+.sproj
